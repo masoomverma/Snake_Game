@@ -1,1 +1,25 @@
 .vscode/
+# CLion
+.idea/
+
+# Build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build.ninja
+
+# Compiled binaries
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# Logs
+*.log
