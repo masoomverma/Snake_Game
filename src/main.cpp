@@ -1,6 +1,7 @@
-#include "stdio.h"
+#include <iostream>
+using namespace std;
 
 int main()
 {
-    printf("The first commit of the Snake Game with the initial configuration of the CMakeLists.txt\n");
+    cout << "The first commit of the Snake Game with the initial configuration of the CMakeLists.txt\n";
 }
